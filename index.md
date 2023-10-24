@@ -7,7 +7,7 @@ graphical client for a well-known legacy video game called R-Type,
 using our own game engine. The project lasted 2 months: in the first
 one, we focused on the core architecture of the game and deliver a 
 working prototype, and in a second month, we expanded several aspects
-the prototype to the next level, exploring the </specify-the-chosen-track/>
+the prototype to the next level, exploring the network and game design
 track. Our game engine implement the Entity Component System design
 pattern for modularity purposes. You're invited to play our game.
 
